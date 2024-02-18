@@ -1,5 +1,3 @@
 terraform.*
 *.terraform
 terraform
-.terraform.lock.hcl
-.terraform/providers/registry.terraform.io/digitalocean/digitalocean/2.34.1/windows_386
